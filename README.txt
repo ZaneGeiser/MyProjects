@@ -20,3 +20,9 @@ several iterations of the project to make it faster, more polite, and more accur
 the next goal for the project is to learn how to package the program to run on
 company servers and update our website pricing according to our own rules on
 competing pricing.
+
+Excel-Macros contains a short selection of the macros that I have written for
+Roof Rack and Towbar World (RRTW) to handle large data exports from the POS System and
+routine data entry. The macro's I have written for RRTW saved the company several
+hours work on a daily basis and enabled impossibly cumbersom task, such as keeping
+our B2B pricing list updated for our 40,000+ products. 
